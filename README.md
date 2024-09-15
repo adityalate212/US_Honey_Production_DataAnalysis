@@ -48,6 +48,4 @@ This project aims to analyze the trends in US honey production across various st
 - **Bar Charts**: To visualize total production and value by state.
 - **Scatter Plots**: To compare colony growth rate over time.
 
-## How to Use the Notebook
 
-1. Clone this repository to your local machine.
