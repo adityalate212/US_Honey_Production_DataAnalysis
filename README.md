@@ -49,3 +49,33 @@ This project aims to analyze the trends in US honey production across various st
 - **Scatter Plots**: To compare colony growth rate over time.
 
 
+## How to Use the Notebook
+
+1. Clone this repository to your local machine.
+    git clone <repository-url>
+
+2. Install the required Python packages:
+    pip install -r requirements.txt
+   
+4. Open the Jupyter Notebook:
+    jupyter notebook US_Honey_Production_Case_Study.ipynb
+
+4. Run the notebook to view the analysis and visualizations.
+
+## Conclusion
+
+- **North Dakota** is the leading state in honey production in terms of both volume and value.
+- There has been a **consistent increase** in honey prices up to 2018, after which a notable decline occurred.
+- The colony growth rate saw its peak in 2010, which signifies a significant positive change in that year.
+- Overall, the project highlights key trends and insights that could aid decision-making in the honey production industry.
+
+## Author
+
+- **Aditya Late**
+- Data Analyst
+- [LinkedIn Profile](https://www.linkedin.com/in/aditya-late-2b29111b3/)
+- [GitHub Profile](https://github.com/adityalate212)
+
+
+
+
